@@ -1,0 +1,18 @@
+th,td{
+    width: 10%;
+    text-align: center;
+}
+img{
+    width: 400px;
+}
+.total,h1,h3{text-align: center;}
+h1{
+ color: teal;
+
+}
+h3{color: rgb(0, 255, 242);}
+.total{color: crimson;
+    font-size: 40px;}
+#logo{width: 100%;
+
+     }
